@@ -1,0 +1,9 @@
+div[id^="icds-tpl-custom-form-code-"]:empty {
+    height: 38px;
+    background: url("../img/spinner.svg") no-repeat;
+}
+
+div[id^="icds-form-placeholder-"]:empty {
+    height: 38px;
+    background: url("../img/spinner.svg") no-repeat;
+}

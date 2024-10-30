@@ -1,0 +1,5 @@
+.debug-info {
+    white-space: pre-wrap;
+    max-height: 30vh;
+    overflow-y: auto;
+}

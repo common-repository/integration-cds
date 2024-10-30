@@ -1,0 +1,1164 @@
+# Copyright (C) 2021
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/\n"
+"POT-Creation-Date: 2021-12-20 07:06:19+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2021-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: wp-vue-i18n 1.1.5\n"
+
+#: src/CustomForm.vue:151 src/PremiumForm.vue:215
+msgid "Thanks for submitting the form."
+msgstr ""
+
+#: src/CustomForm.vue:159
+msgid "Failed to submit the form."
+msgstr ""
+
+#: src/PremiumForm.vue:29
+msgid "Delete."
+msgstr ""
+
+#: src/PremiumForm.vue:34
+msgid "Failed to delete the record."
+msgstr ""
+
+#: src/PremiumForm.vue:39 src/PremiumForm.vue:95
+msgid "The record has been deleted."
+msgstr ""
+
+#: src/PremiumForm.vue:55 src/PremiumForm.vue:102
+msgid "Redirecting..."
+msgstr ""
+
+#: src/PremiumForm.vue:79
+msgid "Submit"
+msgstr ""
+
+#: src/PremiumForm.vue:82
+msgid "Delete"
+msgstr ""
+
+#: src/components/Footer.vue:23 src/components/about/AboutPanel.vue:27
+msgid "Version"
+msgstr ""
+
+#: src/components/Footer.vue:25 src/components/Panel.vue:28
+#: src/components/user-binding/UserBindingEditor.vue:31
+#: src/components/user-binding/UserBindingProfile.vue:25
+msgid "Documentation"
+msgstr ""
+
+#: src/components/Modal.vue:35 src/components/forms/FormSelector.vue:49
+msgid "Close"
+msgstr ""
+
+#: src/components/about/AboutPanel.vue:27
+msgid "Powered by"
+msgstr ""
+
+#: src/components/about/AboutPanel.vue:34
+msgid "Documentation is available at"
+msgstr ""
+
+#: src/components/about/AboutPanel.vue:36
+msgid ""
+"Read Power Platform, Dataverse, Common Data Service and Dynamics 365 "
+"documentation at"
+msgstr ""
+
+#: src/components/admin/user-binding/AuthorizeUsersSetting.vue:27
+msgid "Authorize bound users against Dataverse during sign-in"
+msgstr ""
+
+#: src/components/connection/ConnectionPanel.vue:23
+msgid "Organization URL."
+msgstr ""
+
+#: src/components/connection/ConnectionPanel.vue:26
+msgid "Enter the URL you use to access your Dataverse organization."
+msgstr ""
+
+#: src/components/connection/ConnectionPanel.vue:34
+msgid "Ignore SSL / TLS errors"
+msgstr ""
+
+#: src/components/connection/ConnectionPanel.vue:38
+msgid ""
+"Sometimes the connection to Dataverse fails due to certificate verification "
+"issues caused by improper server configuration. Check this if you want to "
+"suppress certificate verification errors. This may present security risks!"
+msgstr ""
+
+#: src/components/connection/ConnectionPanel.vue:45
+msgid "Deployment Type"
+msgstr ""
+
+#: src/components/connection/ConnectionPanel.vue:49
+msgid "Online"
+msgstr ""
+
+#: src/components/connection/ConnectionPanel.vue:53
+msgid "Internet-Facing Deployment"
+msgstr ""
+
+#: src/components/connection/ConnectionPanel.vue:57
+msgid "On-Premise"
+msgstr ""
+
+#: src/components/connection/ConnectionPanel.vue:63
+msgid "Authentication Method"
+msgstr ""
+
+#: src/components/connection/ConnectionPanel.vue:67
+msgid "OAuth 2.0 / Shared Secret"
+msgstr ""
+
+#: src/components/connection/ConnectionPanel.vue:71
+msgid "OAuth 2.0 / Certificate"
+msgstr ""
+
+#: src/components/connection/ConnectionPanel.vue:77
+#: src/components/connection/ConnectionPanel.vue:93
+msgid "Application ID"
+msgstr ""
+
+#: src/components/connection/ConnectionPanel.vue:80
+#: src/components/connection/ConnectionPanel.vue:96
+msgid "Identifier of the Azure Active Directory application registration."
+msgstr ""
+
+#: src/components/connection/ConnectionPanel.vue:80
+#: src/components/connection/ConnectionPanel.vue:87
+#: src/components/connection/ConnectionPanel.vue:96
+msgid "How do I get this?"
+msgstr ""
+
+#: src/components/connection/ConnectionPanel.vue:84
+msgid "Client Secret"
+msgstr ""
+
+#: src/components/connection/ConnectionPanel.vue:87
+msgid "A key associated with the Azure Active Directory app specified above. "
+msgstr ""
+
+#: src/components/connection/ConnectionPanel.vue:100
+msgid "Method of specifying the path to the certificate"
+msgstr ""
+
+#: src/components/connection/ConnectionPanel.vue:105
+msgid "Upload Certificate file"
+msgstr ""
+
+#: src/components/connection/ConnectionPanel.vue:111
+msgid "Enter the full path"
+msgstr ""
+
+#: src/components/connection/ConnectionPanel.vue:116
+msgid "Please select a certificate file"
+msgstr ""
+
+#: src/components/connection/ConnectionPanel.vue:121
+msgid "Choose file..."
+msgstr ""
+
+#: src/components/connection/ConnectionPanel.vue:125
+msgid "Certificate path"
+msgstr ""
+
+#: src/components/connection/ConnectionPanel.vue:129
+msgid "Full path to .pfx certificate file"
+msgstr ""
+
+#: src/components/connection/ConnectionPanel.vue:135
+msgid "Certificate passphrase"
+msgstr ""
+
+#: src/components/connection/ConnectionPanel.vue:138
+msgid ".pfx certificate passphrase"
+msgstr ""
+
+#: src/components/connection/ConnectionPanel.vue:145
+msgid "Sorry, this authentication type is not supported at the moment."
+msgstr ""
+
+#: src/components/connection/ConnectionPanel.vue:152
+msgid "Sorry, this deployment type is not supported at the moment."
+msgstr ""
+
+#: src/components/connection/ConnectionPanel.vue:158
+msgid ""
+"Once you have all connection settings set, you can establish a test "
+"connection to validate them."
+msgstr ""
+
+#: src/components/connection/ConnectionPanel.vue:160
+msgid "Verify Connection"
+msgstr ""
+
+#: src/components/connection/ConnectionPanel.vue:162
+msgid "Save & Connect"
+msgstr ""
+
+#: src/components/connection/ConnectionPanel.vue:172
+msgid "Connection to Dataverse has been tested successfully. "
+msgstr ""
+
+#: src/components/connection/ConnectionPanel.vue:172
+msgid "Save settings"
+msgstr ""
+
+#: src/components/connection/ConnectionPanel.vue:172
+msgid "to connect to Dataverse."
+msgstr ""
+
+#: src/components/connection/ConnectionPanel.vue:177
+msgid "Disconnect from Dataverse"
+msgstr ""
+
+#: src/components/controls/BooleanControl.vue:26
+#: src/components/controls/InputControl.vue:29
+#: src/components/controls/SelectControl.vue:32
+msgid "Defined in wp-config.php"
+msgstr ""
+
+#: src/components/entity-binding/EntityBindingEditor.vue:28
+msgid ""
+"Entity binding for this post has not yet been configured. Click the button "
+"below to configure entity binding."
+msgstr ""
+
+#: src/components/entity-binding/EntityBindingEditor.vue:35
+msgid "Choose an entity to bind to"
+msgstr ""
+
+#: src/components/entity-binding/EntityBindingEditor.vue:46
+msgid "Choose how to bind the post"
+msgstr ""
+
+#: src/components/entity-binding/EntityBindingEditor.vue:78
+msgid "Show 404 error page if no record was found"
+msgstr ""
+
+#: src/components/entity-binding/EntityBindingEditor.vue:84
+#: src/components/forms/RegistrationLookupSettings.vue:65
+msgid "Conditional access"
+msgstr ""
+
+#: src/components/entity-binding/EntityBindingEditor.vue:90
+msgid "Enable conditional access"
+msgstr ""
+
+#: src/components/entity-binding/EntityBindingEditor.vue:101
+msgid "Save"
+msgstr ""
+
+#: src/components/entity-binding/EntityBindingEditor.vue:103
+#: src/components/user-binding/UserBindingEditor.vue:86
+msgid "Remove Binding"
+msgstr ""
+
+#: src/components/entity-binding/EntityBindingEditor.vue:108
+#: src/components/user-binding/UserBindingEditor.vue:91
+#: src/components/user-binding/UserBindingProfile.vue:108
+msgid "Saved."
+msgstr ""
+
+#: src/components/entity-binding/EntityBindingEditor.vue:145
+msgid "Via GUID in query string"
+msgstr ""
+
+#: src/components/entity-binding/EntityBindingEditor.vue:146
+msgid ""
+"Specific entity records will be bound to the post via a GUID contained in "
+"the URL."
+msgstr ""
+
+#: src/components/entity-binding/EntityBindingEditor.vue:150
+msgid "Via alternate key in query string"
+msgstr ""
+
+#: src/components/entity-binding/EntityBindingEditor.vue:151
+msgid ""
+"Specific entity records will be bound to the post via alternate key "
+"attributes contained in the URL."
+msgstr ""
+
+#: src/components/entity-binding/EntityBindingEditor.vue:155
+msgid "Via user binding"
+msgstr ""
+
+#: src/components/entity-binding/EntityBindingEditor.vue:156
+msgid "Specific entity records will be bound to the post via user binding."
+msgstr ""
+
+#: src/components/entity-binding/EntityBindingEditor.vue:160
+msgid "Via custom code"
+msgstr ""
+
+#: src/components/entity-binding/EntityBindingEditor.vue:161
+msgid ""
+"Specific entity records will be bound to the post via custom code provided "
+"via specific filters."
+msgstr ""
+
+#: src/components/entity-binding/EntityBindingEditor.vue:214
+#: src/components/user-binding/UserBindingEditor.vue:209
+#: src/components/user-binding/UserBindingProfile.vue:224
+msgid "Could not update binding settings."
+msgstr ""
+
+#: src/components/entity-binding/EntityBindingEditor.vue:229
+msgid "Could not remove binding settings."
+msgstr ""
+
+#: src/components/fetch-xml-templates/FetchXmlTemplateEditor.vue:22
+msgid "Template editor"
+msgstr ""
+
+#: src/components/fetch-xml-templates/FetchXmlTemplateEditor.vue:25
+#: src/components/templates/TemplateEditor.vue:25
+msgid "Name"
+msgstr ""
+
+#: src/components/fetch-xml-templates/FetchXmlTemplateEditor.vue:38
+msgid "FetchXML"
+msgstr ""
+
+#: src/components/fetch-xml-templates/FetchXmlTemplateEditor.vue:54
+msgid "Add new param"
+msgstr ""
+
+#: src/components/fetch-xml-templates/FetchXmlTemplateEditor.vue:69
+#: src/components/templates/TemplateEditor.vue:63
+msgid "Create"
+msgstr ""
+
+#: src/components/fetch-xml-templates/FetchXmlTemplateEditor.vue:70
+#: src/components/templates/TemplateEditor.vue:64
+msgid "Update"
+msgstr ""
+
+#: src/components/fetch-xml-templates/FetchXmlTemplateSettings.vue:24
+msgid "Select a fetchXML template"
+msgstr ""
+
+#: src/components/fetch-xml-templates/FetchXmlTemplateSettings.vue:35
+msgid "FetchXML template parameters"
+msgstr ""
+
+#: src/components/fetch-xml-templates/FetchXmlTemplateSettings.vue:39
+msgid "There are no parameters for selected template"
+msgstr ""
+
+#: src/components/fetch-xml-templates/FetchXmlTemplateSettingsParam.vue:25
+msgid "Param name"
+msgstr ""
+
+#: src/components/fetch-xml-templates/FetchXmlTemplateSettingsParam.vue:32
+msgid "Param value"
+msgstr ""
+
+#: src/components/fetch-xml-templates/FetchXmlTemplateSettingsParam.vue:34
+msgid "Default value is"
+msgstr ""
+
+#: src/components/fetch-xml-templates/FetchXmlTemplateSettingsParam.vue:37
+msgid "Param default value"
+msgstr ""
+
+#: src/components/fetch-xml-templates/FetchXmlTemplateSettingsParam.vue:81
+msgid "You must specify the param name."
+msgstr ""
+
+#: src/components/fetch-xml-templates/FetchXmlTemplatesPanel.vue:26
+#: src/components/forms/FormsPanel.vue:26
+#: src/components/templates/TemplatesPanel.vue:26
+msgid "Create new"
+msgstr ""
+
+#: src/components/fetch-xml-templates/FetchXmlTemplatesPanel.vue:127
+msgid "You have unsaved changed in current templates. Switch to another?"
+msgstr ""
+
+#: src/components/forms/EnableRecaptchaSetting.vue:23
+msgid "reCAPTCHA on all forms"
+msgstr ""
+
+#: src/components/forms/EnableRecaptchaSetting.vue:32
+#: src/components/forms/KeepSubmittedSetting.vue:32
+#: src/components/forms/RegistrationEditor.vue:248
+#: src/components/forms/RegistrationEditor.vue:279
+#: src/components/forms/RegistrationEditor.vue:354
+#: src/components/forms/ResetValuesSetting.vue:32
+msgid "Enabled"
+msgstr ""
+
+#: src/components/forms/EnableRecaptchaSetting.vue:40
+#: src/components/forms/KeepSubmittedSetting.vue:40
+#: src/components/forms/RegistrationEditor.vue:256
+#: src/components/forms/RegistrationEditor.vue:286
+#: src/components/forms/RegistrationEditor.vue:362
+#: src/components/forms/ResetValuesSetting.vue:40
+#: src/components/user-binding/UserBindingEditor.vue:132
+#: src/components/user-binding/UserBindingProfile.vue:148
+msgid "Disabled"
+msgstr ""
+
+#: src/components/forms/EnableRecaptchaSetting.vue:45
+msgid ""
+"reCAPTCHA is enabled on all forms by default. You can disable reCAPTCHA "
+"separately in form registration settings."
+msgstr ""
+
+#: src/components/forms/EnableRecaptchaSetting.vue:48
+msgid ""
+"reCAPTCHA is disabled on all forms by default. You can enable reCAPTCHA "
+"separately in form registration settings."
+msgstr ""
+
+#: src/components/forms/FailMessageSetting.vue:23
+#: src/components/forms/RegistrationEditor.vue:311
+msgid "Failed submission message"
+msgstr ""
+
+#: src/components/forms/FailMessageSetting.vue:57
+#: src/components/forms/InlineFullnameSetting.vue:58
+#: src/components/forms/KeepSubmittedSetting.vue:74
+msgid "Settings have been saved."
+msgstr ""
+
+#: src/components/forms/FailMessageSetting.vue:59
+#: src/components/forms/InlineFullnameSetting.vue:60
+#: src/components/forms/KeepSubmittedSetting.vue:76
+msgid "Failed to save the settings."
+msgstr ""
+
+#: src/components/forms/FormSelector.vue:25
+msgid "Entity"
+msgstr ""
+
+#: src/components/forms/FormSelector.vue:34
+msgid "Form"
+msgstr ""
+
+#: src/components/forms/FormSelector.vue:36
+#: src/components/forms/FormSelector.vue:47
+#: src/components/forms/controls/PicklistControl.vue:22
+msgid "Select"
+msgstr ""
+
+#: src/components/forms/FormsPanel.vue:43
+msgid "You do not have any form registrations yet."
+msgstr ""
+
+#: src/components/forms/FormsPanel.vue:50
+msgid "create a new one"
+msgstr ""
+
+#: src/components/forms/FormsPanel.vue:51
+msgid "Select an existing form registration on the left or"
+msgstr ""
+
+#: src/components/forms/FormsPanel.vue:151
+msgid "Changes saved."
+msgstr ""
+
+#: src/components/forms/FormsPanel.vue:180
+msgid "Form registration deleted successfully."
+msgstr ""
+
+#: src/components/forms/FormsSidebar.vue:22
+msgid "Global Settings"
+msgstr ""
+
+#: src/components/forms/FormsSidebar.vue:24
+msgid ""
+"These settings will apply to all registered forms by default. You can "
+"override this settings in form registration settings."
+msgstr ""
+
+#: src/components/forms/InjectDependenciesSetting.vue:23
+msgid "Include dependencies"
+msgstr ""
+
+#: src/components/forms/InlineAddressSetting.vue:23
+#: src/components/forms/RegistrationEditor.vue:337
+msgid "Composite Address field decomposition"
+msgstr ""
+
+#: src/components/forms/InlineFullnameSetting.vue:23
+#: src/components/forms/RegistrationEditor.vue:329
+msgid "Full Name field decomposition"
+msgstr ""
+
+#: src/components/forms/KeepSubmittedSetting.vue:23
+#: src/components/forms/RegistrationEditor.vue:241
+msgid "Keep the form after submission"
+msgstr ""
+
+#: src/components/forms/KeepSubmittedSetting.vue:45
+msgid "The forms will be kept on the page after submission."
+msgstr ""
+
+#: src/components/forms/KeepSubmittedSetting.vue:48
+msgid "The forms will be hidden after submission."
+msgstr ""
+
+#: src/components/forms/LookupDropdownSettings.vue:24
+msgid "Number of characters before search is triggered"
+msgstr ""
+
+#: src/components/forms/RegistrationEditor.vue:22
+msgid "Define the form"
+msgstr ""
+
+#: src/components/forms/RegistrationEditor.vue:26
+msgid "Form Name"
+msgstr ""
+
+#: src/components/forms/RegistrationEditor.vue:30
+msgid "Dataverse Form"
+msgstr ""
+
+#: src/components/forms/RegistrationEditor.vue:46
+msgid "Decide how to process submissions"
+msgstr ""
+
+#: src/components/forms/RegistrationEditor.vue:52
+msgid "Create a new record"
+msgstr ""
+
+#: src/components/forms/RegistrationEditor.vue:57
+msgid "Update or create a record"
+msgstr ""
+
+#: src/components/forms/RegistrationEditor.vue:62
+msgid "Read-only"
+msgstr ""
+
+#: src/components/forms/RegistrationEditor.vue:66
+msgid "A new record will always be created in CRM."
+msgstr ""
+
+#: src/components/forms/RegistrationEditor.vue:69
+msgid ""
+"An existing CRM record will be bound to the form. Submissions will update "
+"that record. If it is not possible to bind the record, a new CRM record "
+"will be created."
+msgstr ""
+
+#: src/components/forms/RegistrationEditor.vue:72
+msgid "The form will show the bound CRM record data without editing capability."
+msgstr ""
+
+#: src/components/forms/RegistrationEditor.vue:80
+msgid "Allow deleting the record"
+msgstr ""
+
+#: src/components/forms/RegistrationEditor.vue:84
+msgid ""
+"Allow users to delete the existing record. A “Delete” button will be "
+"displayed."
+msgstr ""
+
+#: src/components/forms/RegistrationEditor.vue:85
+msgid "You should implement a hook for the"
+msgstr ""
+
+#: src/components/forms/RegistrationEditor.vue:86
+msgid "filter to guard against unauthorized use."
+msgstr ""
+
+#: src/components/forms/RegistrationEditor.vue:92
+msgid "Choose how to bind existing CRM records"
+msgstr ""
+
+#: src/components/forms/RegistrationEditor.vue:98
+msgid "Via Entity Binding"
+msgstr ""
+
+#: src/components/forms/RegistrationEditor.vue:103
+msgid "Via query string"
+msgstr ""
+
+#: src/components/forms/RegistrationEditor.vue:107
+msgid ""
+"The form will acquire CRM records via Entity Binding. The page needs to "
+"have Entity Binding configured."
+msgstr ""
+
+#: src/components/forms/RegistrationEditor.vue:110
+msgid ""
+"The form will acquire CRM records by GUID specified in the query string. "
+"For example,"
+msgstr ""
+
+#: src/components/forms/RegistrationEditor.vue:112
+msgid "Entity type is inferred from the CRM form."
+msgstr ""
+
+#: src/components/forms/RegistrationEditor.vue:119
+msgid ""
+"Enter the query string parameter name which contains the GUID of the bound "
+"record"
+msgstr ""
+
+#: src/components/forms/RegistrationEditor.vue:129
+msgid "Make some fields required or optional"
+msgstr ""
+
+#: src/components/forms/RegistrationEditor.vue:134
+msgid "Attributes"
+msgstr ""
+
+#: src/components/forms/RegistrationEditor.vue:148
+#: src/components/forms/RegistrationEditor.vue:158
+msgid "Required"
+msgstr ""
+
+#: src/components/forms/RegistrationEditor.vue:152
+#: src/components/forms/RegistrationEditor.vue:175
+msgid "Optional"
+msgstr ""
+
+#: src/components/forms/RegistrationEditor.vue:171
+#: src/components/forms/RegistrationEditor.vue:186
+msgid "Remove selected"
+msgstr ""
+
+#: src/components/forms/RegistrationEditor.vue:205
+msgid "Global settings overrides"
+msgstr ""
+
+#: src/components/forms/RegistrationEditor.vue:215
+msgid "Yes"
+msgstr ""
+
+#: src/components/forms/RegistrationEditor.vue:223
+msgid "No"
+msgstr ""
+
+#: src/components/forms/RegistrationEditor.vue:231
+#: src/components/forms/RegistrationEditor.vue:264
+#: src/components/forms/RegistrationEditor.vue:293
+#: src/components/forms/RegistrationEditor.vue:370
+#: src/components/forms/RegistrationEditor.vue:401
+#: src/components/forms/RegistrationEditor.vue:428
+msgid "use global"
+msgstr ""
+
+#: src/components/forms/RegistrationEditor.vue:272
+#: src/components/forms/ResetValuesSetting.vue:23
+msgid "Reset form values after submission"
+msgstr ""
+
+#: src/components/forms/RegistrationEditor.vue:272
+#: src/components/forms/ResetValuesSetting.vue:23
+msgid "create only"
+msgstr ""
+
+#: src/components/forms/RegistrationEditor.vue:303
+#: src/components/forms/SuccessMessageSetting.vue:23
+msgid "Successful submission message"
+msgstr ""
+
+#: src/components/forms/RegistrationEditor.vue:319
+msgid "Redirect after successful submission"
+msgstr ""
+
+#: src/components/forms/RegistrationEditor.vue:343
+msgid "reCAPTCHA settings override"
+msgstr ""
+
+#: src/components/forms/RegistrationEditor.vue:347
+msgid "reCAPTCHA on this form"
+msgstr ""
+
+#: src/components/forms/RegistrationEditor.vue:380
+msgid "Score threshold"
+msgstr ""
+
+#: src/components/forms/RegistrationEditor.vue:385
+msgid ""
+"1.0 is very likely a good interaction, 0.0 is very likely a bot. By "
+"default, you can use a threshold of 0.5."
+msgstr ""
+
+#: src/components/forms/RegistrationEditor.vue:389
+msgid "Action"
+msgstr ""
+
+#: src/components/forms/RegistrationEditor.vue:392
+msgid ""
+"Actions may only contain alphanumeric characters and slashes, and must not "
+"be user-specific."
+msgstr ""
+
+#: src/components/forms/RegistrationEditor.vue:399
+msgid "Theme"
+msgstr ""
+
+#: src/components/forms/RegistrationEditor.vue:406
+msgid "The color theme of the widget."
+msgstr ""
+
+#: src/components/forms/RegistrationEditor.vue:410
+msgid "Size"
+msgstr ""
+
+#: src/components/forms/RegistrationEditor.vue:417
+msgid "The size of the widget."
+msgstr ""
+
+#: src/components/forms/RegistrationEditor.vue:425
+msgid "Badge position"
+msgstr ""
+
+#: src/components/forms/RegistrationEditor.vue:435
+msgid "Reposition the reCAPTCHA badge."
+msgstr ""
+
+#: src/components/forms/RegistrationEditor.vue:435
+msgid "Inline"
+msgstr ""
+
+#: src/components/forms/RegistrationEditor.vue:435
+msgid "lets you position it with CSS."
+msgstr ""
+
+#: src/components/forms/ResetValuesSetting.vue:45
+msgid "Entered values will be removed from the form after successful submission."
+msgstr ""
+
+#: src/components/forms/ResetValuesSetting.vue:48
+msgid "Entered values will be left as-is after successful submission."
+msgstr ""
+
+#: src/components/premium-form/FormCell.vue:35
+#: src/components/premium-form/FormCell.vue:62
+msgid "Control not supported."
+msgstr ""
+
+#: src/components/status/StatusPanel.vue:22
+msgid "Connection status"
+msgstr ""
+
+#: src/components/status/StatusPanel.vue:32
+msgid "Connection details"
+msgstr ""
+
+#: src/components/status/StatusPanel.vue:51
+msgid "Diagnostic"
+msgstr ""
+
+#: src/components/status/StatusPanel.vue:54
+msgid "Download diagnostics"
+msgstr ""
+
+#: src/components/status/StatusPanel.vue:59
+msgid "Show diagnostic data"
+msgstr ""
+
+#: src/components/status/StatusPanel.vue:60
+msgid "Hide diagnostic data"
+msgstr ""
+
+#: src/components/status/StatusPanel.vue:64
+msgid ""
+"The file contains a machine-readable compilation of data listed in the "
+"System information section. No other information is collected."
+msgstr ""
+
+#: src/components/status/StatusPanel.vue:71
+msgid "System Information"
+msgstr ""
+
+#: src/components/status/StatusPanel.vue:83
+msgid "Expand"
+msgstr ""
+
+#: src/components/status/StatusPanel.vue:84
+msgid "Collapse"
+msgstr ""
+
+#: src/components/status/StatusPanel.vue:112
+msgid "Resource Usage"
+msgstr ""
+
+#: src/components/status/StatusPanel.vue:117
+msgid "Memory Usage"
+msgstr ""
+
+#: src/components/status/StatusPanel.vue:124
+msgid "Disk Usage"
+msgstr ""
+
+#: src/components/status/StatusPanel.vue:136
+msgid "Recommendations"
+msgstr ""
+
+#: src/components/status/StatusPanel.vue:150
+msgid "Logging"
+msgstr ""
+
+#: src/components/status/StatusPanel.vue:153
+msgid "Choose logging verbosity"
+msgstr ""
+
+#: src/components/status/StatusPanel.vue:168
+msgid "Download logs"
+msgstr ""
+
+#: src/components/status/StatusPanel.vue:171
+msgid "Remove logs"
+msgstr ""
+
+#: src/components/status/StatusPanel.vue:176
+msgid "Show recent log"
+msgstr ""
+
+#: src/components/status/StatusPanel.vue:177
+msgid "Hide recent log"
+msgstr ""
+
+#: src/components/status/StatusPanel.vue:187
+msgid "Advanced settings"
+msgstr ""
+
+#: src/components/templates/CodeEditor.vue:25
+msgid "Word wrap"
+msgstr ""
+
+#: src/components/templates/TemplateEditor.vue:50
+msgid "Validate template on save."
+msgstr ""
+
+#: src/components/user-binding/UserBindingEditor.vue:29
+msgid "Choose the binding mode."
+msgstr ""
+
+#: src/components/user-binding/UserBindingEditor.vue:49
+#: src/components/user-binding/UserBindingEditor.vue:52
+#: src/components/user-binding/UserBindingProfile.vue:58
+#: src/components/user-binding/UserBindingProfile.vue:61
+msgid "Bound record"
+msgstr ""
+
+#: src/components/user-binding/UserBindingEditor.vue:71
+#: src/components/user-binding/UserBindingProfile.vue:82
+msgid "Open in Power Apps"
+msgstr ""
+
+#: src/components/user-binding/UserBindingEditor.vue:75
+#: src/components/user-binding/UserBindingProfile.vue:86
+msgid "New reference will be displayed when new binding settings are applied."
+msgstr ""
+
+#: src/components/user-binding/UserBindingEditor.vue:85
+msgid "Apply"
+msgstr ""
+
+#: src/components/user-binding/UserBindingEditor.vue:116
+msgid "Not bound"
+msgstr ""
+
+#: src/components/user-binding/UserBindingEditor.vue:117
+#: src/components/user-binding/UserBindingProfile.vue:133
+msgid "User is not bound to any Dataverse row."
+msgstr ""
+
+#: src/components/user-binding/UserBindingEditor.vue:120
+#: src/components/user-binding/UserBindingProfile.vue:136
+msgid "Default"
+msgstr ""
+
+#: src/components/user-binding/UserBindingEditor.vue:121
+#: src/components/user-binding/UserBindingProfile.vue:137
+msgid ""
+"User is bound to a Contact record via AlexaCRM solution. Used frequently "
+"for no-code integration with Dataverse contacts."
+msgstr ""
+
+#: src/components/user-binding/UserBindingEditor.vue:124
+#: src/components/user-binding/UserBindingProfile.vue:140
+msgid "Custom"
+msgstr ""
+
+#: src/components/user-binding/UserBindingEditor.vue:125
+#: src/components/user-binding/UserBindingProfile.vue:141
+msgid ""
+"User is bound to a Dataverse row with custom code. Used for advanced "
+"integrations."
+msgstr ""
+
+#: src/components/user-binding/UserBindingEditor.vue:128
+#: src/components/user-binding/UserBindingProfile.vue:144
+msgid "Manual"
+msgstr ""
+
+#: src/components/user-binding/UserBindingEditor.vue:129
+#: src/components/user-binding/UserBindingProfile.vue:145
+msgid "User is bound manually in the form below."
+msgstr ""
+
+#: src/components/user-binding/UserBindingEditor.vue:133
+#: src/components/user-binding/UserBindingProfile.vue:149
+msgid ""
+"User is not bound to any Dataverse row and cannot be bound via UI or "
+"programmatically."
+msgstr ""
+
+#: src/components/user-binding/UserBindingProfile.vue:23
+msgid "Dataverse User Binding"
+msgstr ""
+
+#: src/components/user-binding/UserBindingProfile.vue:32
+msgid "Binding mode."
+msgstr ""# Copyright (C) 2021 AlexaCRM
+# This file is distributed under the MIT.
+msgid ""
+msgstr ""
+"Project-Id-Version: Dataverse Integration 2.25-dev\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/integration-cds\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-12-20T07:06:22+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: integration-cds\n"
+
+#. Plugin Name of the plugin
+msgid "Dataverse Integration"
+msgstr ""
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://alexacrm.com/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Integrate Microsoft Dataverse organizations with WordPress."
+msgstr ""
+
+#. Author of the plugin
+msgid "AlexaCRM"
+msgstr ""
+
+#: core.php:69
+#: core.php:70
+msgid "Dataverse"
+msgstr ""
+
+#: core.php:87
+#: core.php:88
+msgid "Dataverse Sandbox"
+msgstr ""
+
+#: core.php:675
+msgid "Caught an AuthenticationException during cache warm-up. Warm-up interrupted."
+msgstr ""
+
+#: core.php:830
+msgid "Thank you for using the free version of Dataverse Integration. Try our <a href=\"%s\" class=\"alert-link\" target=\"_blank\">Power Platform solution</a> to unlock more exciting features."
+msgstr ""
+
+#: core.php:845
+msgid "Thank you for using the free version of Dataverse Integration. <a href=\"%s\" class=\"alert-link\">Download & install</a> the premium add-on to unlock more exciting features."
+msgstr ""
+
+#: core.php:899
+msgid "Failed to retrieve the installation package for Dataverse Integration Premium. Verify that the solution is installed and your WordPress environment can reach your Dataverse organization."
+msgstr ""
+
+#: integration-cds.php:69
+msgid "Dataverse Integration detected that your PHP version is %1$s. The plugin requires at least PHP %2$s to work. Please update your PHP installation to enable the plugin."
+msgstr ""
+
+#: src/API/Endpoints/CheckConnection.php:75
+msgid "Provided deployment type is not supported."
+msgstr ""
+
+#: src/API/Endpoints/CheckConnection.php:86
+msgid "Failed to establish a connection to CRM. %s"
+msgstr ""
+
+#: src/API/Endpoints/CheckConnection.php:93
+msgid "Unexpected response to WhoAmI() from Dataverse"
+msgstr ""
+
+#: src/API/Endpoints/CheckConnection.php:95
+msgid "Unexpected response from Dataverse. Check Dataverse user permissions."
+msgstr ""
+
+#: src/API/Endpoints/DeleteWebhook.php:52
+msgid "Failed to delete the webhook."
+msgstr ""
+
+#: src/API/Endpoints/GetEntityMetadata.php:58
+msgid "Connection to Dataverse has not been configured."
+msgstr ""
+
+#: src/API/Endpoints/GetEntityMetadata.php:69
+msgid "Authentication against Dataverse failed. Check connection settings."
+msgstr ""
+
+#: src/API/Endpoints/RegisterWebhook.php:51
+msgid "Webhook topic is a mandatory field."
+msgstr ""
+
+#: src/API/Endpoints/RegisterWebhook.php:56
+msgid "Webhook target URL is a mandatory field."
+msgstr ""
+
+#: src/API/Endpoints/RegisterWebhook.php:69
+msgid "Failed to register the webhook."
+msgstr ""
+
+#: src/API/Endpoints/RegisterWebhook.php:75
+msgid "Failed to register the webhook. "
+msgstr ""
+
+#: src/API/Endpoints/SubmitCustomForm.php:77
+msgid "The website is not configured to process the submission."
+msgstr ""
+
+#: src/API/Endpoints/SubmitCustomForm.php:87
+msgid "Record for update not specified."
+msgstr ""
+
+#: src/API/Endpoints/SubmitCustomForm.php:104
+msgid "Failed to authenticate the form submission."
+msgstr ""
+
+#: src/API/Endpoints/SubmitCustomForm.php:114
+msgid "Invalid reCAPTCHA token."
+msgstr ""
+
+#: src/API/Endpoints/UpdateWebhook.php:53
+msgid "Webhook ID is invalid."
+msgstr ""
+
+#: src/API/Endpoints/UpdateWebhook.php:64
+msgid "Failed to update webhook status."
+msgstr ""
+
+#: src/API/EndpointsV2/RemoveLogs.php:60
+msgid "Failed to remove logs."
+msgstr ""
+
+#: src/API/EndpointsV2/UpdateAdvancedSettings.php:58
+msgid "Failed to update advanced settings."
+msgstr ""
+
+#: src/API/EndpointsV2/UpdateLogVerbosity.php:54
+msgid "Failed to update logging verbosity."
+msgstr ""
+
+#: src/Cache/SpreadExpirationAbstractAdapter.php:281
+#: src/Cache/SpreadExpirationAbstractAdapter.php:305
+msgid "Failed to fetch requested items"
+msgstr ""
+
+#: src/CacheProvider.php:121
+msgid "Using unregistered cache pool"
+msgstr ""
+
+#: src/CacheProvider.php:229
+msgid "Could not retrieve the storage path: "
+msgstr ""
+
+#: src/CacheProvider.php:238
+msgid "Could not create the storage path"
+msgstr ""
+
+#: src/ConnectionFactory.php:50
+#: src/ConnectionSettings.php:99
+msgid "Instance type \"%s\" is not supported"
+msgstr ""
+
+#: src/ConnectionFactory.php:93
+msgid "Authentication type not supported."
+msgstr ""
+
+#: src/ConnectionSettings.php:104
+msgid "Authentication type \"%s\" is not supported for %s deployments"
+msgstr ""
+
+#: src/EncryptionService.php:56
+msgid "Neither ICDS_AUTH_KEY nor AUTH_KEY is defined or is valid, using default encryption key instead"
+msgstr ""
+
+#: src/EncryptionService.php:78
+msgid "OpenSSL failed to return cipher IV length"
+msgstr ""
+
+#: src/EncryptionService.php:88
+msgid "random_bytes() exception: "
+msgstr ""
+
+#: src/Forms/CustomFormModel.php:242
+msgid "Updated entity record with custom form"
+msgstr ""
+
+#: src/Forms/CustomFormModel.php:250
+msgid "Created entity record with custom form"
+msgstr ""
+
+#: src/Forms/CustomFormModel.php:266
+#: src/Forms/CustomFormModel.php:300
+msgid "Failed to submit custom form"
+msgstr ""
+
+#: src/Forms/FormAuthUtil.php:62
+msgid "ICDS_FORM_AUTH_KEY is not defined or not valid, using AUTH_KEY instead"
+msgstr ""
+
+#: src/Forms/Processor.php:81
+msgid "You must provide a value for %s."
+msgstr ""
+
+#: src/InformationProvider.php:118
+msgid "Unknown"
+msgstr ""
+
+#: src/RecaptchaProvider.php:127
+msgid "reCAPTCHA settings adapter not found:"
+msgstr ""
+
+#: src/SettingsProvider.php:148
+msgid "Settings class %s is not supported"
+msgstr ""
+
+#: src/Twig/DebugExceptionTrap.php:76
+msgid "Failed to render the template. Please contact the site administrator."
+msgstr ""
+
+#: src/Twig/Internals/CustomFormTokenParser.php:79
+msgid "Form must have `"
+msgstr ""
+
+#: src/Twig/Internals/CustomFormTokenParser.php:86
+msgid "Form `"
+msgstr ""
+
+#: src/Twig/Internals/FetchxmlTokenParser.php:73
+msgid "FetchXML tag requires the `collection` parameter."
+msgstr ""
+
+#: src/UpdateManager.php:81
+msgid "Failed to convert block for post"
+msgstr ""
+
+#: src/WebApiClient.php:247
+msgid "Retrieve request failed: "
+msgstr ""
